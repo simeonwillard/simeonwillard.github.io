@@ -1,15 +1,15 @@
 body {
 	height: 95%;
-	margin: 120xp;
+	margin-left: 100xp;
 	text-align: left;
 	width: 50%;
-	backround-color: #008B8B;
+	background-color: #008B8B;
 }
 
 h2 {
       text-decoration: underline;
 	line-length: 50xp;
-	color: red;
+	color: blue;
 	 
 }
 
