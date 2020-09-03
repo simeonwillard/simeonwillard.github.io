@@ -2,13 +2,13 @@ body {
 	height: 95%;
 	margin: 120xp;
 	text-align: left;
-	width: 70%;
+	width: 50%;
 }
 
 h2 {
       text-decoration: underline;
 	line-length: 50xp;
-	color: blue;
+	color: red;
 	 
 }
 
