@@ -1,14 +1,14 @@
 body {
-	height: 100%;
+	height: 95%;
 	margin: 120xp;
 	text-align: left;
-	width: 100%;
+	width: 70%;
 }
 
 h2 {
       text-decoration: underline;
-	line-length: cover;
-	color: red;
+	line-length: 50xp;
+	color: blue;
 	 
 }
 
