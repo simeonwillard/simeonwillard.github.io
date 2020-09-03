@@ -1,13 +1,13 @@
 body {
 	height: 100%;
-	margin: 0;
+	margin: 30xp;
 	text-align: left;
 	width: 100%;
 }
 
 h2 {
       text-decoration: underline;
-	display: inline; 
-	color: red; 
+	line-length: cover;
+	 
 }
 
